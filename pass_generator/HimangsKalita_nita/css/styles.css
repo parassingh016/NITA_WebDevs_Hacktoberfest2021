@@ -9,7 +9,7 @@ html {
 }
 
 body {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Times New Roman", Times, serif;
 }
 /* background-color: #0093E9;
 background-image: linear-gradient(135deg, #0093E9 0%, #80D0C7 100%);
@@ -31,7 +31,7 @@ background-image: linear-gradient(135deg, #0093E9 0%, #80D0C7 100%);
 .header__heading-main {
   display: block;
   font-family: "Lato", sans-serif;
-  font-size: 4rem;
+  font-size: 5rem;
   letter-spacing: .5rem;
 }
 
@@ -58,7 +58,7 @@ background-image: linear-gradient(135deg, #0093E9 0%, #80D0C7 100%);
 
 .header__form{
     position: relative;
-    margin-top: 1.5rem;
+    margin-top: 1rem;
     padding: 3rem 3rem 3rem 3rem;
     background: rgb(250, 250, 250);
     border-radius: 1rem;
